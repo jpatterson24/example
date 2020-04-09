@@ -7,6 +7,6 @@ public class Sum{
         for (int number = 2; number <= 20; number +=2){
             total +=number;
         }
-        System.out.printf(" Sum is %d%n", total);
+        System.out.printf("%n Sum is %d%n", total);
     }
 }
