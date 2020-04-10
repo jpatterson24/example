@@ -24,7 +24,7 @@ public class LetterGrades{
             int grade = input.nextInt();
             total += grade;
             ++gradeCounter;
-
+            
           switch (grade /10) {
               case 9: 
               case 10:
